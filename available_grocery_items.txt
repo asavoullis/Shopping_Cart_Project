@@ -1,0 +1,7 @@
+Apple 100 1.2
+Banana 150 0.5
+Orange 80 0.8
+Milk 50 2.5
+Bread 40 1.8
+Eggs 200 0.3
+Rice 50 0.15
